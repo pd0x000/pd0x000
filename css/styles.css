@@ -3,7 +3,6 @@
     min-height: 165px;
     padding-top: 18px;
     background: url("../images/icons/grass.jpg") repeat top center;
-    display: flex;
 }
 .logo {
 	padding-left: 15px;
