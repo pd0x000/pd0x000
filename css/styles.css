@@ -59,7 +59,7 @@ a{
 }
 .menu-h {
     width: 100%;
-    margin-left: 10%;
+
 }
 .menu-h ul li {
     display: inline-block;
@@ -97,14 +97,15 @@ a{
     padding-left: 26px;
 }
 .left {
-    width: 242px;
+    width: 219px;
     float: left;
     margin-left: 7px;
 margin-top: 5px;
 }
 .content {
 	margin-left: 8px;
-	    flex: 1 1 auto;
+	flex: 1 1 auto;
+	display: block;
 }
 
 .right {
