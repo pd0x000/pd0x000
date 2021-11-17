@@ -157,9 +157,8 @@ margin-left: 50px;
 	line-height: 30px;
 }
 .svg{
-	width: calc(97% - 82%);
-min-width: 68px;
-height: calc(100% - 80%);
+    width: 236px;
+    height: 135px;
 }
 .contact__img {
 	padding-top: 40px;
