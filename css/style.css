@@ -66,3 +66,18 @@ px
     font-size: 12px;
     font-weight: normal;
 }
+.pagination a, .pagination a:visited {
+    padding: 7px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 1px;
+        text-decoration: none;
+    background: url("../imgs/pagination-bg.gif") repeat-x;
+    color: #FFFFFF;
+    width: 22px;
+    font-weight: normal;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #0b5820;
+}
