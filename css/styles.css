@@ -292,7 +292,7 @@ display: inline-block;
 text-align: -webkit-match-parent;
 margin-right:19px;
 /*text-align: end;*/
-padding-left: 24px;
+padding-left: 1px;
 line-height: 20px;
 
 }
@@ -310,7 +310,7 @@ line-height: 20px;
     text-decoration: none;
     height: auto;
     display: block;
-    padding-left: 26px;
+    
 }
 
 
